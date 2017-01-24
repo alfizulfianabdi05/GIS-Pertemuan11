@@ -1,0 +1,1 @@
+OpenLayers makes it easy to put a dynamic map on this page web.Hal can display map tiles, vector data and markers taken from any source. OpenLayers has been developed to promote the use of geographic information of all kinds. It's completely free, Open Source JavaScript, released under a 2-clause BSD License (also known as FreeBSD).
